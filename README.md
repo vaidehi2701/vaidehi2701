@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Vaidehi shah</h1>
 <h3 align="center">I'm a noob flutter developer who is constantly trying to learn new things.</h3>
