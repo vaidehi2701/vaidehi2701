@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter Development<br><br>🌱 I’m currently learning Flutter Desktop & Animation<br><br>👨‍💻 All of my projects are available at https://github.com/vaidehi2701<br><br>💬 Ask me about Flutter,Firebase,Tech update and more<br><br>⚡ Fun fact I am Flash Fan(DC Character)
+🔭 I’m currently working on Flutter Development<br>🌱 I’m currently learning Flutter Desktop & Animation<br>👨‍💻 All of my projects are available at https://github.com/vaidehi2701<br>💬 Ask me about Flutter,Firebase,Tech update and more<br>⚡ Fun fact I am Flash Fan(DC Character)
 
 
 ## 🌐 Socials:
