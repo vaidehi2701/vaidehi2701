@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter Development<br>🌱 I’m currently learning Flutter Desktop & Animation<br>💬 Ask me about Flutter,Firebase,Tech update and more<br>⚡ Fun fact I am Flash Fan(DC Character)
+🔭 I’m currently working on Flutter Development<br>🌱 I’m currently learning Flutter Desktop & Animation<br>💬 Ask me about Flutter,Firebase,Tech update and more<br>⚡ Fun fact I am Flash Fan(DC Character) and anime Fan.
 
 
 ## 🌐 Socials:
